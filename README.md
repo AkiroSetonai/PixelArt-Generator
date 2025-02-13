@@ -1,4 +1,5 @@
 # Screenshot
-Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+Aqui esta uma screenshtot do projeto :
+
+![screenshot](Screenshot.png)
